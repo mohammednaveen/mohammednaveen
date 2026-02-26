@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080706,40:100e09,80:1e1808,100:c9a96e&height=240&section=header&text=Mohammed%20Naveen%20P%20A&fontSize=38&fontColor=e8e0d0&fontAlignY=42&fontAlign=50&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Science&descSize=15&descColor=c9a96e&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3200&pause=1400&color=C9A96E&center=true&vCenter=true&width=700&lines=Assalamu+alaikum!!!;Have+a+seat+please..;Go+ahead+be+my+guest...;TW:+this+candidate+broke+the+loop" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3200&pause=1400&color=C9A96E&center=true&vCenter=true&width=700&lines=Assalamu+alaikum!!!;Welcome+to+the+worspace.;The+floor+is+yours.;System+note:+exceptional+case+detected." alt="Typing SVG"/>
 </a>
 
 <br/>
